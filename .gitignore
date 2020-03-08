@@ -6,3 +6,8 @@
 /pkg/
 /spec/reports/
 /tmp/
+/.idea/
+/examples/
+
+/Gemfile.lock
+/.rakeTasks
