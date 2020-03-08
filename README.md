@@ -2,6 +2,8 @@
 
 A small DSL for the construction of quick automation tasks.
 
+**NOTE:** This version is just a prototype. It will be completely re-written.
+
 ## Installation
 
 Add this line to your application's Gemfile:
