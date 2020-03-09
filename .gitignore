@@ -9,5 +9,7 @@
 /.idea/
 /examples/
 
+*.gem
+
 /Gemfile.lock
 /.rakeTasks
