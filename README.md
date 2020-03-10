@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/assemblr.svg)](https://badge.fury.io/rb/assemblr)
+
 # Assemblr
 
 A small DSL for the construction of quick automation tasks.
